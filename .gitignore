@@ -1,0 +1,10 @@
+# Archivos compilados y ejecutables
+/build/
+/dist/
+*.spec
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+.venv/
+venv/
